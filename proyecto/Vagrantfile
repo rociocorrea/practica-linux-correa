@@ -1,0 +1,48 @@
+Vagrant.configure("2") do |config|
+  # --- Configuración básica de la máquina virtual ---
+  config.vm.box = "ubuntu/jammy64"
+  config.vm.hostname = "linux-practice"
+
+  # --- Configuración del proveedor VirtualBox ---
+  config.vm.provider "virtualbox" do |vb|
+    vb.memory = "2048"
+    vb.cpus = 2
+
+    # Agregar disco adicional de 2 GB para ejercicios de LVM
+    unless File.exist?('./disk1.vdi')
+      vb.customize ['createhd', '--filename', './disk1.vdi', '--size', 2048]
+    end
+
+    vb.customize [
+      'storageattach', :id,
+      '--storagectl', 'SCSI',
+      '--port', '2',
+      '--device', '0',
+      '--type', 'hdd',
+      '--medium', './disk1.vdi'
+    ]
+  end
+
+  # --- Configuración de red ---
+  config.vm.network "public_network"
+
+  # --- Aprovisionamiento inicial ---
+  config.vm.provision "shell", inline: <<-SHELL
+    apt-get update
+    # Instalar dependencias necesarias para compilar fastfetch
+    apt-get install -y git build-essential cmake libssl-dev docker.io docker-compose lvm2
+
+    # Instalar fastfetch desde GitHub
+    git clone https://github.com/LinusDierheimer/fastfetch.git /tmp/fastfetch
+    cd /tmp/fastfetch
+    mkdir build && cd build
+    cmake ..
+    make
+    make install
+
+    # Configuración de Docker
+    usermod -aG docker vagrant
+    systemctl enable docker
+    systemctl start docker
+  SHELL
+end

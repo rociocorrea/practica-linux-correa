@@ -1,0 +1,42 @@
+========== FASTFETCH DE Correa(alumna_A) ==========
+                             ....
+              .',:clooo:  .:looooo:.
+           .;looooooooc  .oooooooooo'
+        .;looooool:,''.  :ooooooooooc
+       ;looool;.         'oooooooooo,
+      ;clool'             .cooooooc.  ,,
+         ...                ......  .:oo,
+  .;clol:,.                        .loooo'
+ :ooooooooo,                        'ooool
+'ooooooooooo.                        loooo.
+'ooooooooool                         coooo.
+ ,loooooooc.                        .loooo.
+   .,;;;'.                          ;ooooc
+       ...                         ,ooool.
+    .cooooc.              ..',,'.  .cooo.
+      ;ooooo:.           ;oooooooc.  :l.
+       .coooooc,..      coooooooooo.
+         .:ooooooolc:. .ooooooooooo'
+           .':loooooo;  ,oooooooooc
+               ..';::c'  .;loooo:'[1G[19A[47Cvagrant@linux-practice
+[47C----------------------
+[47COS: Ubuntu 22.04.5 LTS (Jammy Jellyfish) x86_64
+[47CHost: VirtualBox (1.2)
+[47CKernel: Linux 5.15.0-160-generic
+[47CUptime: 9 mins
+[47CPackages: 664 (dpkg), 3 (snap)
+[47CShell: bash 5.1.16
+[47CDisplay (VBOX monitor): 1024x768, 60 Hz [External]
+[47CTerminal: 
+[47CCPU: 13th Gen Intel(R) Core(TM) i7-1355U (2) @ 2.61 GHz
+[47CGPU: InnoTek Systemberatung GmbH VirtualBox Graphics Adapter
+[47CMemory: 356.34 MiB / 1.92 GiB (18%)
+[47CSwap: Disabled
+[47CDisk (/): 2.48 GiB / 38.70 GiB (6%) - ext4
+[47CLocal IP (enp0s3): 10.0.2.15/24
+[47CBattery (1): 49% [Discharging]
+[47CLocale: C.UTF-8
+[47C
+[47C[40m   [41m   [42m   [43m   [44m   [45m   [46m   [47m   [m
+[47C[100m   [101m   [102m   [103m   [104m   [105m   [106m   [107m   [m
+

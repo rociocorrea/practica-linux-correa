@@ -1,0 +1,14 @@
+========== VERIFICACIÓN DE PERMISOS - Correa(alumna_A) ==========
+Archivos en mi directorio personal:
+total 8
+drwxrwxr-x 2 vagrant vagrant 4096 Nov 18 00:19 .
+drwxr-x--- 5 vagrant vagrant 4096 Nov 18 00:19 ..
+-rw------- 1 vagrant vagrant    0 Nov 18 00:19 privado.txt
+-rw-r--r-- 1 vagrant vagrant    0 Nov 18 00:19 publico.txt
+Archivos en directorio colaborativo:
+total 24
+drwxrwx---  2 root equipotrabajo  4096 Nov 17 23:23 .
+drwxrwxrwt 12 root root          20480 Nov 18 00:00 ..
+Información del grupo equipotrabajo:
+equipotrabajo:x:1005:estudiante1,estudiante2,estudiante3,vagrant
+

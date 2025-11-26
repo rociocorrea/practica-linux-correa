@@ -1,0 +1,26 @@
+========== VERIFICACIÓN DE ARCHIVOS - Correa(alumna_A) ==========
+Estructura de directorios creada:
+/mnt/lvm_storage_correa
+/mnt/lvm_storage_correa/lost+found
+/mnt/lvm_storage_correa/proyectos
+/mnt/lvm_storage_correa/proyectos/activos
+/mnt/lvm_storage_correa/proyectos/archivados
+/mnt/lvm_storage_correa/respaldos
+/mnt/lvm_storage_correa/temporal
+Archivos en cada directorio:
+-rw-rw-r-- 1 vagrant vagrant 27 Nov 25 23:46 /mnt/lvm_storage_correa/proyectos/activos/documento_05.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Nov 25 23:46 /mnt/lvm_storage_correa/proyectos/activos/documento_02.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Nov 25 23:46 /mnt/lvm_storage_correa/proyectos/activos/documento_01.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Nov 25 23:46 /mnt/lvm_storage_correa/proyectos/activos/documento_03.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Nov 25 23:46 /mnt/lvm_storage_correa/proyectos/activos/documento_04.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Nov 25 23:42 /mnt/lvm_storage_correa/proyectos/archivados/documento_06.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Nov 25 23:42 /mnt/lvm_storage_correa/proyectos/archivados/documento_08.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Nov 25 23:42 /mnt/lvm_storage_correa/proyectos/archivados/documento_07.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Nov 25 23:47 /mnt/lvm_storage_correa/respaldos/documento_09.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Nov 25 23:47 /mnt/lvm_storage_correa/respaldos/documento_10.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Nov 25 23:42 /mnt/lvm_storage_correa/temporal/documento_05.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Nov 25 23:42 /mnt/lvm_storage_correa/temporal/documento_02.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Nov 25 23:42 /mnt/lvm_storage_correa/temporal/documento_01.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Nov 25 23:42 /mnt/lvm_storage_correa/temporal/documento_03.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Nov 25 23:42 /mnt/lvm_storage_correa/temporal/documento_04.txt
+

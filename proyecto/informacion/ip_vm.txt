@@ -8,3 +8,8 @@
     inet 192.168.1.39/24 metric 100 brd 192.168.1.255 scope global dynamic enp0s8
     inet 172.17.0.1/16 brd 172.17.255.255 scope global docker0
 
+========== IP DE LA VM - Correa(alumna_C) ==========
+    inet 10.0.2.15/24 metric 100 brd 10.0.2.255 scope global dynamic enp0s3
+    inet 192.168.1.33/24 metric 100 brd 192.168.1.255 scope global dynamic enp0s8
+    inet 172.17.0.1/16 brd 172.17.255.255 scope global docker0
+

@@ -24,3 +24,29 @@ Archivos en cada directorio:
 -rw-rw-r-- 1 vagrant vagrant 27 Nov 25 23:42 /mnt/lvm_storage_correa/temporal/documento_03.txt
 -rw-rw-r-- 1 vagrant vagrant 27 Nov 25 23:42 /mnt/lvm_storage_correa/temporal/documento_04.txt
 
+========== VERIFICACIÓN DE ARCHIVOS - Correa(alumna_B) ==========
+Estructura de directorios creada:
+/mnt/lvm_storage_correa_b
+/mnt/lvm_storage_correa_b/temporal
+/mnt/lvm_storage_correa_b/proyectos
+/mnt/lvm_storage_correa_b/proyectos/archivados
+/mnt/lvm_storage_correa_b/proyectos/activos
+/mnt/lvm_storage_correa_b/lost+found
+/mnt/lvm_storage_correa_b/respaldos
+Archivos en cada directorio:
+-rw-rw-r-- 1 vagrant vagrant 27 Dec  4 21:25 /mnt/lvm_storage_correa_b/temporal/documento_04.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Dec  4 21:25 /mnt/lvm_storage_correa_b/temporal/documento_01.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Dec  4 21:25 /mnt/lvm_storage_correa_b/temporal/documento_02.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Dec  4 21:25 /mnt/lvm_storage_correa_b/temporal/documento_03.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Dec  4 21:25 /mnt/lvm_storage_correa_b/temporal/documento_05.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Dec  4 21:25 /mnt/lvm_storage_correa_b/proyectos/archivados/documento_07.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Dec  4 21:25 /mnt/lvm_storage_correa_b/proyectos/archivados/documento_08.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Dec  4 21:25 /mnt/lvm_storage_correa_b/proyectos/archivados/documento_06.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Dec  4 21:29 /mnt/lvm_storage_correa_b/proyectos/activos/documento_04.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Dec  4 21:29 /mnt/lvm_storage_correa_b/proyectos/activos/documento_01.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Dec  4 21:29 /mnt/lvm_storage_correa_b/proyectos/activos/documento_02.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Dec  4 21:29 /mnt/lvm_storage_correa_b/proyectos/activos/documento_03.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Dec  4 21:29 /mnt/lvm_storage_correa_b/proyectos/activos/documento_05.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Dec  4 21:30 /mnt/lvm_storage_correa_b/respaldos/documento_10.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Dec  4 21:30 /mnt/lvm_storage_correa_b/respaldos/documento_09.txt
+

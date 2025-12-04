@@ -7,9 +7,9 @@ Ejecuto el docker-compose.yml original y el primer error que veo es este:
 
 *vagrant@linux-practice:/vagrant/contenedores$ docker-compose up
 ERROR: The Compose file './docker-compose.yml' is invalid because:
-'grafana', 'loki' do not match any of the regexes: '^x-'
+'grafana', 'loki' do not match any of the regexes: '^x-'*
 
-You might be seeing this error because you're using the wrong Compose file vershe `version` key and place your service definitions at the root of the file to
+*You might be seeing this error because you're using the wrong Compose file vershe `version` key and place your service definitions at the root of the file to
 For more on the Compose file format versions, see https://docs.docker.com/compo
 vagrant@linux-practice:/vagrant/contenedores$*
 

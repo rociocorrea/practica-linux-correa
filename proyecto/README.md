@@ -81,8 +81,7 @@ Se ejecutó sin problemas el fastfetch con los tres roles.
 Se ejecutó sin problemas la lista de comandos para luego hacer la verificación de usuarios y permisos.
 
 ### Parte colaborativa
-Ejecuto la creación de usuarios con comandos indicados. 
-En este punto interpreté que sólo el Alumno A debía hacer la creación de los grupos y la carpeta colaborativa y los demás no, por eso no se mostrará nada al respecto en los .txt solicitados en la consigna.
+Ejecuto la creación de usuarios con comandos indicados para cada rol, creando usuarios, agregándolos a un grupo y generando un directorio para simular colaboración.
 
 Nota: Para que los grupos se apliquen correctamente, fue necesario cerrar sesión y volver a entrar.
 
